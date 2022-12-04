@@ -32,7 +32,7 @@
 	{
 		header("Location: ../blogView.php");
 	}
-
+//for contribution 
     function dataFilter($data)
     {
     	$data = trim($data);
